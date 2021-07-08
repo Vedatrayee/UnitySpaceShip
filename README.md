@@ -1,6 +1,7 @@
 ## UnitySpaceShip
 #SpaceShip Simulation
 
+![buildFile](https://user-images.githubusercontent.com/47347846/124955955-1f6c1e80-e035-11eb-9396-3b9c37c493a4.gif)
 
 
 #Open the index file with firefox with the following settings.
